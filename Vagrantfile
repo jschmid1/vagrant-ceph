@@ -19,6 +19,7 @@ Vagrant::Hosts::check_for_ssh_keys
 # Set BOX to one of 'openSUSE-13.2', 'Tumbleweed', 'SLE-12'
 #BOX = 'opensuse/openSUSE-42.2-x86_64'
 #BOX = 'SLE12-SP2-migration'
+#BOX = 'SLE12-SP3-qa'
 BOX = 'SLE12-SP3'
 
 # Set INSTALLATION to one of 'ceph-deploy', 'vsm'
